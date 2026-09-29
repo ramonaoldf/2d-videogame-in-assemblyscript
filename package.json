@@ -16,7 +16,7 @@
   "devDependencies": {
     "as-inliner-image": "^0.0.1",
     "assemblyscript": "^0.19.11",
-    "local-web-server": "^4.2.1",
+    "local-web-server": "^5.4.0",
     "pngjs": "^6.0.0"
   }
 }
